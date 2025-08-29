@@ -33,10 +33,10 @@ header{
 }
 .searchbox{
     flex-grow:1 ;
-    background-color: #f8f8f8;
+    background-color: #381b78;
     display: flex;
     border-radius: 15px;
-    border: 1px solid #f4f4f4 ;
+    border: 1px solid #12803c ;
 
 }
 .searchbox button{
